@@ -1,3 +1,3 @@
-# Cryptopia Labs
+# SARE Project
 
-A Quantum-Safe Tomorrow.
+Safe At Rest Encryption.
